@@ -1,0 +1,36 @@
+div{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+
+.video1 {
+    border: 5px solid white;
+    
+    padding: 10px;
+    width: 23%;
+    height: 400px;
+    background-color:rgb(227, 227, 228);
+  }
+  
+.video1 img{
+    width: 80%;
+    margin-top: 40px;
+}
+
+.video1 span{
+    display: flex;
+}
+.video1 h3{
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+.logo {
+    border-radius: 100%;
+    margin-left: 170px;
+   
+   
+}
